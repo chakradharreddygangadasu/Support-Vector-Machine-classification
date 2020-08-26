@@ -1,4 +1,4 @@
-""" By deploying the KNN model, the goal here is to predict weather particular person of certain features will buy the brand new car or not.
+""" By deploying the Support Vector Machine classification model, the goal here is to predict weather particular person of certain features will buy the brand new car or not.
 Given that the independent variables are gender, age, estimate salary and the dependent variable is purchase is done 
 or not."""
 
